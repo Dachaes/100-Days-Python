@@ -38,7 +38,7 @@
   <div markdown="1">
     - Event listener</br>
     - High Level Function</br>
-    - instance & State
+    - Instance & State
   </div>
 </details>
 
@@ -53,3 +53,13 @@
 Day 22. Turtle Graphic - Pong Game
 
 Day 23. Turtle Graphic - Crossy Road
+
+<details>
+<summary>Day 24. Turtle Graphic - Snake Game (Ver.2)</summary>
+  <div markdown="1">
+    - File</br>
+    - with ~ as ...</br>
+    - Absolute File Path & Relative File Path</br>
+    - Mail Merge
+  </div>
+</details>
