@@ -65,8 +65,9 @@ Day 23. Turtle Graphic - Crossy Road
 </details>
 
 <details>
-<summary>Day 25. </summary>
+<summary>Day 25. Turtle Graphic - U.S </summary>
   <div markdown="1">
     - CSV : Comma Separated Values
+    - Using CSV File with Pandas
   </div>
 </details>
