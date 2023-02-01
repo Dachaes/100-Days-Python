@@ -71,3 +71,11 @@ Day 23. Turtle Graphic - Crossy Road
     - Using CSV File with Pandas
   </div>
 </details>
+
+<details>
+<summary>Day 26. Turtle Graphic - U.S States game </summary>
+  <div markdown="1">
+    - List Comprehension & Conditional List Comprehension</br>
+    - Dictionary Comprehension & Conditional Dictionary Comprehension</br>
+  </div>
+</details>
