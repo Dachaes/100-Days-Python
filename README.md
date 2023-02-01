@@ -73,7 +73,7 @@ Day 23. Turtle Graphic - Crossy Road
 </details>
 
 <details>
-<summary>Day 26. Turtle Graphic - U.S States game </summary>
+<summary>Day 26. Turtle Graphic - NATO Alphabet Phonetic Project </summary>
   <div markdown="1">
     - List Comprehension & Conditional List Comprehension</br>
     - Dictionary Comprehension & Conditional Dictionary Comprehension</br>
