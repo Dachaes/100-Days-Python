@@ -65,8 +65,17 @@ Day 23. Turtle Graphic - Crossy Road
 </details>
 
 <details>
-<summary>Day 25. </summary>
+<summary>Day 25. Turtle Graphic - U.S States game </summary>
   <div markdown="1">
-    - CSV : Comma Separated Values
+    - CSV : Comma Separated Values</br>
+    - Using CSV File with Pandas
+  </div>
+</details>
+
+<details>
+<summary>Day 26. Turtle Graphic - Nato Phonetic Alphabet </summary>
+  <div markdown="1">
+    - List Comprehension & Conditional List Comprehension</br>
+    - Dictionary Comprehension & Conditional Dictionary Comprehension</br>
   </div>
 </details>
