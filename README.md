@@ -87,3 +87,10 @@ Day 23. Turtle Graphic - Crossy Road
     - *args & **kwargs
   </div>
 </details>
+
+<details>
+<summary>Day 28. Tkinter - Pomodoro </summary>
+  <div markdown="1">
+    - Dynamic Typing
+  </div>
+</details>
