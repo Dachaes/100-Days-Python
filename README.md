@@ -100,7 +100,7 @@ Day 29. Tkinter - Password Generator </summary>
 <details>
 <summary>Day 30. Tkinter - Password Generator (Ver.2) </summary>
   <div markdown="1">
-    - Handling Errors and Exceptions
+    - Handling Errors and Exceptions </br>
     - Jason
   </div>
 </details>
