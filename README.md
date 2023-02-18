@@ -94,3 +94,5 @@ Day 23. Turtle Graphic - Crossy Road
     - Dynamic Typing
   </div>
 </details>
+
+Day 29. Tkinter - Password Generator </summary>
